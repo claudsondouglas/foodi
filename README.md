@@ -1,5 +1,8 @@
 ![Imgur](https://i.imgur.com/UpjkXtz.png)
+
 Demo: [foodi.vercel.app](https://foodi.vercel.app)
+
+Projeto atualmente abandonado por causa do Whatsapp que lançou uma atualização que já faz no aplicativo tudo e mais do que isso iria fazer.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
