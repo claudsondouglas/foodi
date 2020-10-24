@@ -1,0 +1,23 @@
+{
+  "name": "shopi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^1.0.0-rc.5",
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "axios": "^0.20.0",
+    "emotion-theming": "^10.0.27",
+    "mongodb": "^3.6.2",
+    "next": "9.5.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-icons": "^3.11.0",
+    "react-transition-group": "^1.2.1"
+  }
+}
